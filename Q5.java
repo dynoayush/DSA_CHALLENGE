@@ -1,3 +1,5 @@
+//Check whether a given number ’n’ is a palindrome number.
+//Palindrome numbers are the numbers that don't change when reversed.
 import java.util.Scanner;
 
 public class Q5{
