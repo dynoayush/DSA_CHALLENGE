@@ -1,3 +1,4 @@
+// reverse any number
 public class Q4 {
     public static long reverse(long n) {
             // Write your code here
