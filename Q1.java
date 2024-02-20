@@ -1,3 +1,4 @@
+//Sort the given unsorted array 'arr' of size 'N' in non-decreasing order using the selection sort algorithm.
 public class Q1 {
     public static void selectionSort(int[] arr) {
         //Your code goes here
