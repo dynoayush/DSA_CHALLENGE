@@ -1,3 +1,5 @@
+// You are given a number ’n’.
+//Find the number of digits of ‘n’ that evenly divide ‘n’.
 public class Q3 {
     public static int countDigits(int n){
         // Write your code here.
