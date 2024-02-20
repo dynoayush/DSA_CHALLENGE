@@ -1,4 +1,5 @@
-
+// You are given an integer array 'arr' of size 'N'.
+//You must sort this array using 'Bubble Sort'..
 public class Q2 {
     public static void bubbleSort(int[] arr, int n) {
         //Your code goes here
