@@ -1,3 +1,5 @@
+//You are given an integer ‘n’.
+//Your task is to return an array containing integers from 1 to ‘n’ (in increasing order) without using loops.
 public class Q10 {
     public static int[] printNos(int x) {
             // Write Your Code Here
