@@ -1,3 +1,5 @@
+//You are given an integer 'n'.
+//Return 'true' if 'n' is an Armstrong number, and 'false' otherwise.
 import java.util.*;
 public class Q7 {
     public static void main(String[] args) {
