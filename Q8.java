@@ -1,3 +1,6 @@
+//You are given an integer ‘n’.
+//Function ‘sumOfDivisors(n)’ is defined as the sum of all divisors of ‘n’.
+//Find the sum of ‘sumOfDivisors(i)’ for all ‘i’ from 1 to ‘n’.
 public class Q8 {
     public static int sumOfAllDivisors(int n){
             // Write your code here.
